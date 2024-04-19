@@ -1,0 +1,1 @@
+ D:\\TharwatSamy_Course\\Clean\ Architecture\\bookly_app_with_clean_architecture\\.dart_tool\\flutter_build\\324643bec0bb5ef78f0ffd05f1324f07\\native_assets.yaml: 
